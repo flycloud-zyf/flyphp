@@ -1,0 +1,36 @@
+{
+  "description": "The FlyPHP Framework",
+  "name": "flyphp/framework",
+  "type": "framework",
+  "keywords": [
+    "PHP framework"
+  ],
+  "homepage": "https://github.com/flycloud-zyf/flyphp",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.29",
+    "guzzle/guzzle": "^3.9",
+    "filp/whoops": "2.1.2",
+    "purekid/mongodm": "^1.5",
+    "twig/twig": "~1.0",
+    "catfan/Medoo": "^1.4",
+    "symfony/var-dumper": "^3.2",
+    "kphcdr/crypt": "^1.0",
+    "monolog/monolog": "^1.23"
+  },
+  "authors": [
+    {
+      "name": "Fly.Cloud",
+      "email": "273333643@163.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    },
+    {
+      "packagist": false
+    }
+  ]
+}
