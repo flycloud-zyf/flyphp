@@ -15,7 +15,6 @@
     "twig/twig": "~1.0",
     "catfan/Medoo": "^1.4",
     "symfony/var-dumper": "^3.2",
-    "kphcdr/crypt": "^1.0",
     "monolog/monolog": "^1.23"
   },
   "authors": [
